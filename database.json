@@ -1,0 +1,231 @@
+[
+  {
+    "title": "Біг Мак® Меню",
+    "price": 25,
+    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/thumb.Sdwch_BigMac:1-4-product-tile-desktop",
+    "logoUrl": "https://www.mcdonalds.com/content/dam/sites/ua/nfl/icons/Logo_on_white_desktop_Small.jpg",
+    "shop": "muc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Дабл Чізбургер",
+    "price": 20,
+    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/SdwchDoubleCheeseburger:1-4-product-tile-desktop",
+    "logoUrl": "https://www.mcdonalds.com/content/dam/sites/ua/nfl/icons/Logo_on_white_desktop_Small.jpg",
+    "shop": "muc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "МакЧікен",
+    "price": 27,
+    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/Sdwch_McChicken:1-4-product-tile-desktop",
+    "logoUrl": "https://www.mcdonalds.com/content/dam/sites/ua/nfl/icons/Logo_on_white_desktop_Small.jpg",
+    "shop": "muc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Біг Тейсті®",
+    "price": 25,
+    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/BIG_TASTY:1-4-product-tile-desktop",
+    "logoUrl": "https://www.mcdonalds.com/content/dam/sites/ua/nfl/icons/Logo_on_white_desktop_Small.jpg",
+    "shop": "muc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Філе-о-фіш®",
+    "price": 30,
+    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/Sdwch_File-o-Fish-1:1-4-product-tile-desktop",
+    "logoUrl": "https://www.mcdonalds.com/content/dam/sites/ua/nfl/icons/Logo_on_white_desktop_Small.jpg",
+    "shop": "muc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Роял Чізбургер",
+    "price": 40,
+    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/Public_ROYAL_ch-2:1-4-product-tile-desktop",
+    "logoUrl": "https://www.mcdonalds.com/content/dam/sites/ua/nfl/icons/Logo_on_white_desktop_Small.jpg",
+    "shop": "muc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Дабл Роял Чізбургер",
+    "price": 35,
+    "imgUrl": "https://s7d1.scene7.com/is/image/mcdonalds/Public_ROYAL_ch_DBL-2:1-4-product-tile-desktop",
+    "logoUrl": "https://www.mcdonalds.com/content/dam/sites/ua/nfl/icons/Logo_on_white_desktop_Small.jpg",
+    "shop": "muc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+
+  {
+    "title": "ДАБЛ-ПЕРЕМОГА З СИРОМ",
+    "price": 289,
+    "imgUrl": "https://yaposhka.com.ua/media/catalog/product/cache/90c631851bfc82ed3538a672fa9488bb/9/1/910_500_224_5.webp",
+    "logoUrl": "https://yaposhka.com.ua/media/logo/websites/1/logo_horizont-01.svg",
+    "shop": "japoshka",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "ХАРКІВСЬКИЙ НЕЗЛАМНИЙ",
+    "price": 249,
+    "imgUrl": "https://yaposhka.com.ua/media/catalog/product/cache/90c631851bfc82ed3538a672fa9488bb/9/1/910_500_226.webp",
+    "logoUrl": "https://yaposhka.com.ua/media/logo/websites/1/logo_horizont-01.svg",
+    "shop": "japoshka",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "СМІЛИВА КУРОЧКА",
+    "price": 235,
+    "imgUrl": "https://yaposhka.com.ua/media/catalog/product/cache/90c631851bfc82ed3538a672fa9488bb/9/1/910_38_3.webp",
+    "logoUrl": "https://yaposhka.com.ua/media/logo/websites/1/logo_horizont-01.svg",
+    "shop": "japoshka",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "УКРАЇНСЬКИЙ ЗІ СВИНИНОЮ",
+    "price": 239,
+    "imgUrl": "https://yaposhka.com.ua/media/catalog/product/cache/90c631851bfc82ed3538a672fa9488bb/9/1/910_500.webp",
+    "logoUrl": "https://yaposhka.com.ua/media/logo/websites/1/logo_horizont-01.svg",
+    "shop": "japoshka",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "ЛОСОСЬ ДЕ ЮКРЕЙН",
+    "price": 289,
+    "imgUrl": "https://yaposhka.com.ua/media/catalog/product/cache/90c631851bfc82ed3538a672fa9488bb/9/1/910x500_6_1.webp",
+    "logoUrl": "https://yaposhka.com.ua/media/logo/websites/1/logo_horizont-01.svg",
+    "shop": "japoshka",
+    "whoAddToCart": [],
+    "count": 1
+  },
+
+  {
+    "title": "БАКЕТ ДУЕТ ОРИГІНАЛЬНИЙ",
+    "price": 265,
+    "imgUrl": "https://www.kfc-ukraine.com/admin/files/4093.png",
+    "logoUrl": "https://www.kfc-ukraine.com/admin/files/3190.svg",
+    "shop": "kfc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "БАКЕТ ДУЕТ ГОСТРИЙ",
+    "price": 265,
+    "imgUrl": "https://www.kfc-ukraine.com/admin/files/4092.png",
+    "logoUrl": "https://www.kfc-ukraine.com/admin/files/3190.svg",
+    "shop": "kfc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "ТАКОС СИРНИЙ",
+    "price": 45,
+    "imgUrl": "https://www.kfc-ukraine.com/admin/files/4176.png",
+    "logoUrl": "https://www.kfc-ukraine.com/admin/files/3190.svg",
+    "shop": "kfc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "КЕСАДІЛЬЯ",
+    "price": 75,
+    "imgUrl": "https://www.kfc-ukraine.com/admin/files/4178.png",
+    "logoUrl": "https://www.kfc-ukraine.com/admin/files/3190.svg",
+    "shop": "kfc",
+    "whoAddToCart": [],
+    "count": 1
+  },
+
+  {
+    "title": "Бургер на Победу",
+    "price": 199,
+    "imgUrl": "https://mafia.ua/storage/editor/fotos/480x0/burger-set_1684392992668.jpeg",
+    "logoUrl": "https://i.otzovik.com/objects/b/100000/90329.png",
+    "shop": "mafia",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Комбо меню Гамбургер",
+    "price": 159,
+    "imgUrl": "https://mafia.ua/storage/editor/fotos/480x0/_1676835935996.jpeg",
+    "logoUrl": "https://i.otzovik.com/objects/b/100000/90329.png",
+    "shop": "mafia",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Комбо меню Дабл Чизбургер",
+    "price": 209,
+    "imgUrl": "https://mafia.ua/storage/editor/fotos/480x0/_1676835606356.jpeg",
+    "logoUrl": "https://i.otzovik.com/objects/b/100000/90329.png",
+    "shop": "mafia",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Комбо меню Кинг Йорк",
+    "price": 179,
+    "imgUrl": "https://mafia.ua/storage/editor/fotos/480x0/_1676835776868.jpeg",
+    "logoUrl": "https://i.otzovik.com/objects/b/100000/90329.png",
+    "shop": "mafia",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Фиш & Чипс",
+    "price": 199,
+    "imgUrl": "https://mafia.ua/storage/editor/fotos/480x0/_167083628874.jpeg",
+    "logoUrl": "https://i.otzovik.com/objects/b/100000/90329.png",
+    "shop": "mafia",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Сельдь по-домашнему",
+    "price": 129,
+    "imgUrl": "https://mafia.ua/storage/editor/fotos/480x0/seld-po-domashnemu_1682323310153.jpeg",
+    "logoUrl": "https://i.otzovik.com/objects/b/100000/90329.png",
+    "shop": "mafia",
+    "whoAddToCart": [],
+    "count": 1
+  },
+
+  {
+    "title": "Биточок з курки в сирі",
+    "price": 68,
+    "imgUrl": "https://media.puzatahata.ua/__sized__/images/productosg/2022/07/07/16f7107e-931d-4501-8d4b-a579614546ad-thumbnail-400x400-100.jpg",
+    "logoUrl": "https://jobs.ua/uploads/logo/b/74608.jpg",
+    "shop": "puzatahata",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Біфштекс натуральний рублений",
+    "price": 88,
+    "imgUrl": "https://media.puzatahata.ua/__sized__/images/productosg/2021/05/15/c386c550-c0ea-4154-94a9-061827aacf59-thumbnail-400x400-100.jpg",
+    "logoUrl": "https://jobs.ua/uploads/logo/b/74608.jpg",
+    "shop": "puzatahata",
+    "whoAddToCart": [],
+    "count": 1
+  },
+  {
+    "title": "Жульєн з грибами та куркою",
+    "price": 68,
+    "imgUrl": "https://media.puzatahata.ua/__sized__/images/productosg/2021/05/15/22f033c9-5d90-43f0-b90b-c52390efeb50-thumbnail-400x400-100.jpg",
+    "logoUrl": "https://jobs.ua/uploads/logo/b/74608.jpg",
+    "shop": "puzatahata",
+    "whoAddToCart": [],
+    "count": 1
+  }
+]
