@@ -21,7 +21,7 @@ exports.checkAddProductToCart = catchAsync(async (req, res, next) => {
   const { whoAddToCart } = await Product.findOne({ _id: productId });
 
   if (whoAddToCart.includes(userId)) {
-    return next(new AppError(409, "This product already added to cart"));
+    return next(new AppError(409, "This product already added to your cart"));
   }
 
   next();
@@ -34,7 +34,7 @@ exports.checkDelProductFromCart = catchAsync(async (req, res, next) => {
   const { whoAddToCart } = await Product.findOne({ _id: productId });
 
   if (!whoAddToCart.includes(userId)) {
-    return next(new AppError(404, "This product not in cart"));
+    return next(new AppError(404, "This product not in your cart"));
   }
 
   next();
